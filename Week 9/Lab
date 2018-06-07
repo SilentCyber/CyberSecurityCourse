@@ -1,0 +1,32 @@
+## Week 9 Lab - Into The Packets
+
+Milestone 1: Security-Flavored Net Tools
+
+
+Challenge 1: Run nmap against your localhost IP to see all open ports
+
+See how many of the ports you can match to services: 0
+Challenge 1: Run nmap against your localhost IP to see all open ports
+
+See how many of the ports you can match to services 8 ports are opened : 0
+
+![lab m1](https://user-images.githubusercontent.com/38059972/41128132-062f082a-6a62-11e8-93da-95db08f0c0e4.jpg)
+
+Milestone 2: Grabbing Packets with TCPdump
+
+![tcpdump](https://user-images.githubusercontent.com/38059972/41128480-2f6669d0-6a63-11e8-80c8-3ecd49533230.jpg)
+
+How many requests to load the main codepath.com page? 227 
+
+What type of resource accounts for most of the requests?HTTP
+
+
+Milestone 3: Hello, Wireshark
+
+![wireshark](https://user-images.githubusercontent.com/38059972/41128586-8d38a1f4-6a63-11e8-9132-b13d4a3f4070.jpg)
+![wireshark 2](https://user-images.githubusercontent.com/38059972/41128584-8cfcf802-6a63-11e8-92a2-1b050a811b8f.jpg)
+![wireshark 3](https://user-images.githubusercontent.com/38059972/41128585-8d1a5a50-6a63-11e8-8e4d-53edf17970a7.jpg)
+
+Cracking Hanshake
+
+![crack a wpa2 handshake](https://user-images.githubusercontent.com/38059972/41128615-ad77f2b2-6a63-11e8-8a0c-c7a2addb3d2e.jpg)
